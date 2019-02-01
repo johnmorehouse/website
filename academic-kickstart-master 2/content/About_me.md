@@ -17,4 +17,3 @@ weight = 60
 
 Outside of academics, I am an avid cyclist. I hold a USAC category II road racing license and still race ocassionally when I have the time and legs to do so. Here are so recent photos:
 
-[image]("img/gorge_roubaix.jpg")

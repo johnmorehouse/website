@@ -13,17 +13,12 @@ role = "Economics Graduate Student"
 organizations = [ { name = "University of Oregon", url = "https://economics.uoregon.edu/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Economics Graduate Student at the University of Oregon."
+bio = "Economics Graduate Student at the University of Oregon"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "jmorehou@uoregon.edu"
 
 # List (academic) interests or hobbies
-interests = [
-  "Environmental",
-  "Urban",
-  "Development"
-]
 
 
 # Social/Academic Networking
@@ -71,8 +66,16 @@ interests = [
  icon_pack = "ai"
  link = "files/cv.pdf"
 
+
+
+ [[social]]
+   icon = "strava"
+ icon_pack = "fab"
+ link = "https://www.strava.com/athletes/198522"
+
+
 +++
 
-I am a PhD student at the University of Oregon economics department. My research interests are at the intersection of environmental, urban, and development economics. 
+I am a second year PhD student at the University of Oregon economics department. My research interests are at the intersection of environmental, urban, and development economics. 
 
 
