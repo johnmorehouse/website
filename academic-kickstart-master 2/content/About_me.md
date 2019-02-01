@@ -15,5 +15,13 @@ weight = 60
 
 +++
 
-Outside of academics, I am an avid cyclist. I hold a USAC category II road racing license and still race ocassionally when I have the time and legs to do so. Here are so recent photos:
+Outside of academics, I am an avid cyclist. 
 
+- To see how much I have (or **haven't**) been riding recently:
+
+
+<iframe height='300' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/198522/activity-summary/e830d173be6ac7dc31523f8ad01606264111497d'></iframe>
+
+
+
+  
