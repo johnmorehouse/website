@@ -35,7 +35,7 @@ publication_type = "-3"
 
 - A Spatial Equilibrium Model of US Residential Energy Demand (with Mark Colas)
 
-- Environmental Externalities in Spatial Dynamic Stochastic Equilibrium
+- Environmental Externalities in Dynamic Stochastic Spatial Equilibrium
 
 
 
