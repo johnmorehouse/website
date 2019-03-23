@@ -33,7 +33,7 @@ publication_type = "-1"
 +++
 **Works in Progress**
 
-- A Spatial Equilibrium Model of US Residential Energy Demand (with Mark Colas)
+- Household Carbon Emissions and Land Use Regulation in Spatial Equilibrium (with [Mark Colas](https://sites.google.com/site/markyaucolas/))
 
 - Environmental Externalities in Dynamic Stochastic Spatial Equilibrium
 
