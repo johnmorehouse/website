@@ -31,12 +31,18 @@
     url = "files/cv.pdf"
    weight = 4
 
+ [[main]]
+    name = "Notes"
+    url = "files/cv.pdf"
+   weight = 5
+
+
 
 
 [[main]]
   name = "Misc"
   url = "About_me"
-  weight = 5
+  weight = 6
 
 
 
