@@ -18,5 +18,5 @@ weight = 60
 
 I will occassionally post notes on various topics. They can be found below. 
 
-1. [Discrete Dynamic Choice: 1](index.html)
+1. [Discrete Dynamic Choice: 1](notes/index.html)
 
