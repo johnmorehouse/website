@@ -33,7 +33,7 @@
 
  [[main]]
     name = "Notes"
-    url = "Notes"
+    url = "notes"
    weight = 5
 
 
