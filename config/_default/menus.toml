@@ -33,7 +33,7 @@
 
  [[main]]
     name = "Notes"
-    url = "files/cv.pdf"
+    url = "notes"
    weight = 5
 
 
