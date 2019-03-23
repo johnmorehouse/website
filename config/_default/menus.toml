@@ -33,7 +33,7 @@
 
  [[main]]
     name = "Notes"
-    url = "notes"
+    url = "notes/Notes.md"
    weight = 5
 
 
