@@ -4,7 +4,7 @@ Below is a list of useful links that I have found helpful. This will be updated 
 
 **General R Resources**
 
-* [Grant + Ed's Intro:](https://github.com/grantmcdermott/R-intro)
+* [Grant + Ed's Intro to R](https://github.com/grantmcdermott/R-intro)
 
 * [R for Data Science](https://r4ds.had.co.nz/)
 
