@@ -76,6 +76,6 @@ email = "jmorehou@uoregon.edu"
 
 +++
 
-I am a second year PhD student at the University of Oregon economics department. My research interests are at the intersection of environmental, urban, and development economics. 
+I am a second year Economics PhD student at the University of Oregon. My research interests are environmental and urban economics. 
 
 
