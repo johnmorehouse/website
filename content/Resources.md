@@ -35,4 +35,6 @@ Below is a list of useful links that I have found helpful. This will be updated 
 
 * [Ivan Rudik's Dynamic Optimization Course](https://github.com/AEM7130/SPRING2019)
 
+* [My Notes on Discrete Dynamic Choice](https://github.com/johnmorehouse/Notes)
+
 
