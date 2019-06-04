@@ -39,7 +39,9 @@ publication_type = "-1"
 
 **Works in Progress**
 
-- Environmental Externalities in Dynamic Stochastic Spatial Equilibrium
+- The Clean Air Act and the Spatial Distribution of US Electricity
+
+- Location Based Carbon Tax Subsides
 
 
 
