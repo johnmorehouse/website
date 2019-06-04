@@ -23,7 +23,6 @@
 
 
 
-
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  [[main]]
@@ -35,6 +34,11 @@
     name = "Notes"
     url = "Notes"
    weight = 5
+   
+    [[main]]
+    name = "Resources"
+    url = "Resources"
+   weight = 6
 
 
 
