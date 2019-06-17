@@ -21,6 +21,6 @@ I have been a TA for the following courses:
 - **ECON 202**: Introduction to Macroeconomics (Fall 17)
 - **ECON 311**: Intermediate Microeconomics (Winter 18)
 - **ECON  421**: Introduction to Econometrics  (Winter 19)
-- **ECON 607**: Core Macroeconomics I (Graduate Level)
+- **ECON 607**: Core Macroeconomics I, III (Graduate Level, Fall 18, Spring 19)
 
 Course reviews are available upon request.
