@@ -39,9 +39,9 @@ publication_type = "-1"
 
 **Works in Progress**
 
-- The Clean Air Act and the Spatial Distribution of US Electricity
+- The Clean Air Act and the Spatial Distribution of US Electricity (with [Ed Rubin](http://edrub.in/))
 
-- Location Based Carbon Tax Subsides
+- Labor Market Responses to Environmental Regulation
 
 
 
