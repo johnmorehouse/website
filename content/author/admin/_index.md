@@ -76,5 +76,5 @@ email = "jmorehou@uoregon.edu"
 
 +++
 
-I am a second year Economics PhD student at the University of Oregon. I am interested in environmental and urban economics. Outside of academics, I enjoy traveling and cycling.
+I am a third year Economics PhD student at the University of Oregon. I am interested in environmental and urban economics. Outside of academics, I enjoy traveling and cycling.
 
