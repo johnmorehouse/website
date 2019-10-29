@@ -3,7 +3,7 @@
 
 # Color theme.
 #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-color_theme = "cupcake"
+color_theme = "ocean"
 # Enable users to switch between day and night mode?
 day_night = true
 
@@ -54,8 +54,7 @@ email = "jmorehou@uoregon.edu"
 address = "430 Prince Lucien Campbell Hall, University of Oregon"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = """Monday 16:30 to 17:30<br>
-Otherwise email to book an appointment"""
+office_hours = ""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = ""
