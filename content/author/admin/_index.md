@@ -76,5 +76,7 @@ email = "jmorehou@uoregon.edu"
 
 +++
 
-I am a third year Economics PhD student at the University of Oregon. I am interested in environmental and urban economics. Outside of academics, I enjoy traveling and cycling.
+Welcome to my website. I am a third year Economics PhD student at the University of Oregon. My research focuses on the intersection of environmental and urban policy. More specifically, I study the distributional consequences affliated with environmental policies such as carbon taxation.
+
+Outside of academics, I enjoy cycling and traveling. 
 
