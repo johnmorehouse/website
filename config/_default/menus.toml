@@ -5,7 +5,7 @@
 
 [[main]]
   name = "Home"
-  url = "#home_page"
+  url = "#author/admin"
   weight = 1
 
 
