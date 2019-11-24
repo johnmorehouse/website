@@ -15,9 +15,15 @@ weight = 60
 
 +++
 
-I have been a TA for the following courses:
+__*Instructor of Record*__
 
-- **ECON 201**: Introduction to Microeconomics (Spring 18)
+- **ECON 330**: Urban and Regional Economic Issues (Scheduled for Winter 2020)
+
+
+
+__*Teaching Assistant*__
+
+- **ECON 201**: Introduction to Microeconomics (Spring 18, Fall 19)
 - **ECON 202**: Introduction to Macroeconomics (Fall 17)
 - **ECON 311**: Intermediate Microeconomics (Winter 18)
 - **ECON  421**: Introduction to Econometrics  (Winter 19)
