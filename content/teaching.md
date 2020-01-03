@@ -17,7 +17,7 @@ weight = 60
 
 __*Instructor of Record*__
 
-- **ECON 330**: Urban and Regional Economic Issues (Scheduled for Winter 2020)
+- **ECON 330**: [Urban and Regional Economic Issues](https://github.com/johnmorehouse/EC330_UrbanEcon) (Winter 2020)
 
 
 
