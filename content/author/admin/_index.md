@@ -71,5 +71,12 @@ email = "jmorehou@uoregon.edu"
 
 +++
 
-Welcome to my website. I am a third year Economics PhD student at the University of Oregon. I am interested in urban and environmental economics. Outside of academics, I enjoy cycling and traveling. 
+
+Welcome to my website. I am a third-year Economics Ph.D. student at the University of Oregon. In the Summer of 2020, I will be an intern at [Vivid Economics](https://www.vivideconomics.com/).
+
+
+I am interested in urban and environmental economics. My current research focuses on the spatial consequences of environmental policies such as carbon taxes and air quality monitoring. For coverage of a recent paper (with Mark Colas), see [this article](https://www.minneapolisfed.org/article/2020/california-green-rush) on the Federal Reserve Bank of Minneapolis' website..
+
+I have taught a class on [Urban Economics](https://github.com/johnmorehouse/EC330_UrbanEcon/blob/master/README.md) as the lead instructor at the University of Oregon and am currently scheduled to teach an econometrics course. I have TA'ed for a variety of courses ranging from principles of micro to Ph.D. macroeconomics. 
+
 
