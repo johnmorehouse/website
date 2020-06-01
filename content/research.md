@@ -34,7 +34,7 @@ publication_type = "-1"
 
 **Working Papers**
 
-- [The Environmental Cost of Land-Use Restrictions](https://drive.google.com/file/d/1-Cn6OiwNJeWksrKi7WG-58th77odfNm4/view) (with [Mark Colas](https://sites.google.com/site/markyaucolas/))
+- [The Environmental Cost of Land-Use Restrictions](https://drive.google.com/file/d/1-Cn6OiwNJeWksrKi7WG-58th77odfNm4/view) (with [Mark Colas](https://sites.google.com/site/markyaucolas/)) R & R __Quantitative Economics__
 
 
 **Works in Progress**
