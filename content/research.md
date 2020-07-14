@@ -39,9 +39,7 @@ publication_type = "-1"
 
 **Works in Progress**
 
-- The Strategic Geography of US Electricity Emissions (with [Ed Rubin](http://edrub.in/)) 
-    
-    - _Draft available soon_
+- The Strategic Geography of US Electricity Emissions (with [Ed Rubin](http://edrub.in/))  _Draft available soon_
 
 - Labor Market Responses to Environmental Regulation
 
