@@ -39,7 +39,7 @@ publication_type = "-1"
 
 **Works in Progress**
 
-- The Clean Air Act and the Spatial Distribution of US Electricity (with [Ed Rubin](http://edrub.in/)) 
+- The Strategic Geography of US Electricity Emissions (with [Ed Rubin](http://edrub.in/)) 
     
     - _Draft available soon_
 
