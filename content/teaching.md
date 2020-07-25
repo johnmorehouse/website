@@ -17,6 +17,8 @@ weight = 60
 
 __*Instructor of Record*__
 
+- **ECON 421**: Introduction to Econometrics (II) (Summer 2020, online)
+
 - **ECON 330**: [Urban and Regional Economic Issues](https://github.com/johnmorehouse/EC330_UrbanEcon) (Winter 2020)
 
 
@@ -26,7 +28,7 @@ __*Teaching Assistant*__
 - **ECON 201**: Introduction to Microeconomics (Spring 18, Fall 19)
 - **ECON 202**: Introduction to Macroeconomics (Fall 17)
 - **ECON 311**: Intermediate Microeconomics (Winter 18)
-- **ECON  421**: Introduction to Econometrics  (Winter 19)
+- **ECON  421**: Introduction to Econometrics  (Winter 19, Spring 19)
 - **ECON 607**: Core Macroeconomics I, III (Graduate Level, Fall 18, Spring 19)
 
 Course reviews are available upon request.
