@@ -39,9 +39,11 @@ publication_type = "-1"
 
 **Works in Progress**
 
+- Labor Market Responses to Environmental Regulation
+
 - The Strategic Geography of US Electricity Emissions (with [Ed Rubin](http://edrub.in/))  _Draft available soon_
 
-- Labor Market Responses to Environmental Regulation
+- The Big City Wage Premium: Labor Market Power and Skill Sorting (with [Sophie Mathes](https://sophie-mathes.com/))
 
 - In Search of Peace and Quiet: Do Short-Term Rental Restrictions Improve Housing Affordability? (with [Keaton Miller](http://www.keatonmiller.org/) & [Brett Garcia](https://brettgarcia.com/))
 
