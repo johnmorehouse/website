@@ -78,11 +78,11 @@ email = "jmorehou@uoregon.edu"
 Welcome to my website. I am a fourth-year Economics Ph.D. student at the University of Oregon. I am also a freelance economist at [Vivid Economics](https://www.vivideconomics.com/), where I was an intern in the summer of 2020.
 
 
-I am interested in _nearly everything_ related to economics but focus on urban and environmental economics. My current research examines the spatial consequences of environmental policies such as carbon taxes and air quality monitoring. For coverage of a recent paper (with Mark Colas), see [this article](https://www.minneapolisfed.org/article/2020/california-green-rush) on the Federal Reserve Bank of Minneapolis' website. At Vivid, I am part of a multi-discplinary team working to build an in-house global energy systems model.
+I am interested in _nearly everything_ related to economics but I focus on urban and environmental economics. My current research examines the spatial consequences of environmental policies such as carbon taxes and air quality monitoring. For coverage of a recent paper (with Mark Colas), see [this article](https://www.minneapolisfed.org/article/2020/california-green-rush) on the Federal Reserve Bank of Minneapolis' website. At Vivid, I am part of a multi-discplinary team working to build an in-house global energy systems model.
 
 I have taught a class on [Urban Economics](https://github.com/johnmorehouse/EC330_UrbanEcon/blob/master/README.md) as the lead instructor at the University of Oregon and as well as an upper-division econometrics course. I have also TA'ed for a variety of courses ranging from principles of micro to Ph.D. macroeconomics. 
 
-On a personal note, I am a long-time cycling enthusiast. I am a (currently inactive) USA cycling category 2 road cyclist, and depending on the state of the COVID19 pandemic, may return to amateur road racing in 2021. I also enjoy many of the other outdoor amenities Oregon has to offer, such as skiing and hiking. 
+On a more personal note, I am a long-time cycling enthusiast. I am a (currently inactive) USA cycling category 2 road cyclist, and depending on the state of the COVID19 pandemic, may return to amateur road racing in 2021. I also enjoy many of the other outdoor amenities Oregon has to offer, such as skiing and hiking. 
 
 
 
