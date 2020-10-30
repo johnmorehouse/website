@@ -43,7 +43,7 @@ publication_type = "-1"
 
 - The Strategic Geography of US Electricity Emissions (with [Ed Rubin](http://edrub.in/))  _Draft available soon_
 
-- In Search of Peace and Quiet: Do Short-Term Rental Restrictions Improve Housing Affordability? (with [Keaton Miller](http://www.keatonmiller.org/) & [Brett Garcia](https://brettgarcia.com/)) _Draft available soon_
+- In Search of Peace and Quiet: The Heterogeneous Impacts of Short-Term Rentals on Housing Prices (with [Brett Garcia](https://brettgarcia.com/) [Keaton Miller](http://www.keatonmiller.org/)) &  _Draft available soon_
 
 - Labor Market Responses to Environmental Regulation
 
