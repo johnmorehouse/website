@@ -12,7 +12,7 @@ primary_dark = "#DA2536"
 # Menu
 menu_primary = "#003f5c"
 menu_text = "#fff"
-menu_text_active = "#ffa600"
+menu_text_active = "ffa600"
 menu_title = "#fff"
 
 # Backgrounds
