@@ -13,7 +13,7 @@ baseurl = "https://johnmmorehouse.com/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; John Morehouse {year}"
+copyright = "&copy; John Morehouse 2021"
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = ""
