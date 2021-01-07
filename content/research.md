@@ -38,11 +38,13 @@ publication_type = "-1"
 
 
 
-- [In Search of Peace and Quiet: The Heterogeneous Impacts of Short-Term Rentals on Housing Prices](https://static1.squarespace.com/static/56a1484625981dd79f45da68/t/5fd41f62313c42342b564670/1607737191336/2020-12-11-str-heterogeneous.pdf) (with [Brett Garcia](https://brettgarcia.com/) & [Keaton Miller](http://www.keatonmiller.org/))  
+- [In Search of Peace and Quiet: The Heterogeneous Impacts of Short-Term Rentals on Housing Prices](https://static1.squarespace.com/static/56a1484625981dd79f45da68/t/5fd41f62313c42342b564670/1607737191336/2020-12-11-str-heterogeneous.pdf) _Submitted_ (with [Brett Garcia](https://brettgarcia.com/) & [Keaton Miller](http://www.keatonmiller.org/))  
+
+
+- [Do Polluters Strategically Locate near Borders? Federalism and the Geography of US Power Plants](http://edrub.in/Papers/paperPlantLocations.pdf) (with [Ed Rubin](http://edrub.in/))  
 
 **Works in Progress**
 
-- Do Polluters Strategically Locate near Borders? Federalism and the Geography of US Power Plants (with [Ed Rubin](http://edrub.in/))  _Draft available soon_
 
 
 - Labor Market Responses to Environmental Regulation
