@@ -3,13 +3,13 @@
 
 # Color theme.
 #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-color_theme = "ocean"
+color_theme = "john"
 # Enable users to switch between day and night mode?
 day_night = true
 
 # Font style.
 #   Choose from `default`, `classic`, or `playfair`.
-font = "default"
+font = "john"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
@@ -54,7 +54,7 @@ email = "jmorehou@uoregon.edu"
 address = "430 Prince Lucien Campbell Hall, University of Oregon"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = "Wednesday 16:00 to 17:00"
+office_hours = "By Appointment"
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = ""
