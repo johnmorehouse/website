@@ -5,7 +5,7 @@ name = "john"
 light = true
 
 # Primary
-primary = "#ffa600"
+primary = "#bc5090"
 primary_light = "#FF6771"
 primary_dark = "#DA2536"
 
