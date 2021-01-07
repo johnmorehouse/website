@@ -1,19 +1,11 @@
-# Theme metadata
-name = "john"
+# Font style metadata
+name = "alison"
 
-# Is theme light or dark?
-light = true
+# Optional Google font URL
+google_fonts = "Lora:400,400i|Karla:400,400i,700,700i|DM+Mono"
 
-# Primary
-primary = "#06805E"
-
-# Menu
-menu_primary = "#F0F7FA"
-menu_text = "#172A3A"
-menu_text_active = "#06805E"
-menu_title = "#172A3A"
-
-# Backgrounds
-background = "#F0F7FA"
-home_section_odd = "#F0F7FA"
-home_section_even = "#F0F7FA"
+# Font families
+heading_font = "Lora"
+body_font = "Karla"
+nav_font = "Karla"
+mono_font = "DM Mono"
