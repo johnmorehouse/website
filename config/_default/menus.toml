@@ -30,11 +30,15 @@
     url = "files/cv.pdf"
    weight = 4
 
+[[main]]
+  name = "Blog"
+  url = "Blog"
+  weight = 5
 
     [[main]]
     name = "Resources"
     url = "Resources"
-   weight = 5
+   weight = 6
 
 
 
