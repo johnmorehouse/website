@@ -17,9 +17,10 @@ weight = 60
 
 __*Instructor of Record*__
 
-- **ECON 421**: Introduction to Econometrics (II) (Summer 2020, online)
+- **ECON 330**: Urban and Regional Economic Issues ([Winter 2021](https://github.com/johnmorehouse/EC330-Winter2021), [Winter 2020]((https://github.com/johnmorehouse/EC330_UrbanEcon)))
 
-- **ECON 330**: [Urban and Regional Economic Issues](https://github.com/johnmorehouse/EC330_UrbanEcon) (Winter 2020)
+
+- **ECON 421**: Introduction to Econometrics (II) (Summer 2020, online)
 
 
 
