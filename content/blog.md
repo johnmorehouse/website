@@ -11,8 +11,6 @@ __Jan 2021:__
 
 __March 2019:__ 
 
-- [Simulating Partial Equilibrium, Finite Horizon, Dynamic Discrete Location Choice Models](https://rawcdn.githack.com/johnmorehouse/Notes/576a86eae2c32aba414d87f2e5feb28b37644936/discrete_choice/finitehorizon_dsge.html)
-  
-  - [Julia version](https://rawcdn.githack.com/johnmorehouse/Notes/d0154d957cbb0275eddc2f42f245014a1c6929f9/discrete_choice/partial_eq_julia.html)
+- Simulating Partial Equilibrium, Finite Horizon, Dynamic Discrete Location Choice Models. [Notebook](https://rawcdn.githack.com/johnmorehouse/Notes/576a86eae2c32aba414d87f2e5feb28b37644936/discrete_choice/finitehorizon_dsge.html), [Julia version](https://rawcdn.githack.com/johnmorehouse/Notes/d0154d957cbb0275eddc2f42f245014a1c6929f9/discrete_choice/partial_eq_julia.html)
 
 
