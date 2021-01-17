@@ -5,7 +5,7 @@
 
 __Jan 2021:__ 
 
-  - Integrating Google Compute Engine, Google Cloud Storage and Rstudio (for dummies). [Notebook](https://rawcdn.githack.com/johnmorehouse/gcs-rstudio-guide/16f2a3ea03349fa2e62ef61f7353c78e9408c271/gce_notes/gce_notes.html), [Shell Script](https://github.com/johnmorehouse/gcs-rstudio-guide/blob/main/setup_r.sh)
+  - Integrating Google Compute Engine, Google Cloud Storage and Rstudio (for dummies). [Notebook](https://rawcdn.githack.com/johnmorehouse/gcs-rstudio-guide/40f9cdf8689c11a6f7f1aded8ce87a2e61f5eee7/gce_notes/gce_notes.html), [Shell Script](https://github.com/johnmorehouse/gcs-rstudio-guide/blob/main/setup_r.sh)
   
   - Deploying Jupyter with a Julia kernel installed on a GCE VM. [Shell Script](https://github.com/johnmorehouse/gcs-rstudio-guide/blob/main/setup_jupyter.sh)
 
