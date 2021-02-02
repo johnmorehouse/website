@@ -34,17 +34,16 @@ publication_type = "-1"
 
 **Working Papers**
 
-- [The Environmental Cost of Land-Use Restrictions](https://drive.google.com/file/d/1-Cn6OiwNJeWksrKi7WG-58th77odfNm4/view) (with [Mark Colas](https://sites.google.com/site/markyaucolas/)) Resubmitted __Quantitative Economics__    ([Minneapolis Fed Coverage](https://www.minneapolisfed.org/article/2020/california-green-rush), [Presentation slides](https://drive.google.com/file/d/1jDr6jjPqBfbAX-N6RDxSpCdRuIFeKs74/view))
+- [The Environmental Cost of Land-Use Restrictions](https://rawcdn.githack.com/johnmorehouse/Papers/6fe51365bf2cd0debb4b6c962c23683222349892/colas_morehouse_jan21.pdf) (with [Mark Colas](https://sites.google.com/site/markyaucolas/)) Resubmitted __Quantitative Economics__    ([Minneapolis Fed Coverage](https://www.minneapolisfed.org/article/2020/california-green-rush), [Presentation slides](https://drive.google.com/file/d/1jDr6jjPqBfbAX-N6RDxSpCdRuIFeKs74/view))
 
 
 
-- [In Search of Peace and Quiet: The Heterogeneous Impacts of Short-Term Rentals on Housing Prices](https://static1.squarespace.com/static/56a1484625981dd79f45da68/t/5fd41f62313c42342b564670/1607737191336/2020-12-11-str-heterogeneous.pdf) _Submitted_ (with [Brett Garcia](https://brettgarcia.com/) & [Keaton Miller](http://www.keatonmiller.org/))  
+- [In Search of Peace and Quiet: The Heterogeneous Impacts of Short-Term Rentals on Housing Prices](https://rawcdn.githack.com/johnmorehouse/Papers/6fe51365bf2cd0debb4b6c962c23683222349892/garcia_miller_morehouse_dec20.pdf) _Submitted_ (with [Brett Garcia](https://brettgarcia.com/) & [Keaton Miller](http://www.keatonmiller.org/))  
 
 
-- [Do polluters strategically locate near borders? The geography of US power plants and their emissions](http://edrub.in/Papers/paperPlantLocations.pdf) (with [Ed Rubin](http://edrub.in/))  
+- [Do polluters strategically locate near borders? The geography of US power plants and their emissions](https://rawcdn.githack.com/johnmorehouse/Papers/6fe51365bf2cd0debb4b6c962c23683222349892/morehouse_rubin_dec20.pdf) (with [Ed Rubin](http://edrub.in/))  
 
 **Works in Progress**
-
 
 
 - Carbon Taxes in Spatial Equilibrium
