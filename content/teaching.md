@@ -15,6 +15,8 @@ weight = 60
 
 +++
 
+All course reviews are available upon request.
+
 __*Instructor of Record*__
 
 - **ECON 330**: Urban and Regional Economic Issues ([Winter 2021](https://github.com/johnmorehouse/EC330-Winter2021), [Winter 2020](https://github.com/johnmorehouse/EC330_UrbanEcon))
@@ -32,6 +34,5 @@ __*Teaching Assistant*__
 - **ECON  421**: Introduction to Econometrics  (Winter 19, Spring 19)
 - **ECON 607**: Core Macroeconomics I, III (Graduate Level, Fall 18, Spring 19)
 
-Course reviews are available upon request.
 
 
