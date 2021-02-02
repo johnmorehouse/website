@@ -47,7 +47,7 @@ publication_type = "-1"
 
 
 
-- Labor Market Responses to Environmental Regulation
+- Carbon Taxes in Spatial Equilibrium
 
 - The Big City Wage Premium: Labor Market Power and Skill Sorting (with [Sophie Mathes](https://sophie-mathes.com/))
 
