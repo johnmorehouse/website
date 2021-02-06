@@ -41,7 +41,7 @@ publication_type = "-1"
 - [In Search of Peace and Quiet: The Heterogeneous Impacts of Short-Term Rentals on Housing Prices](https://rawcdn.githack.com/johnmorehouse/Papers/6fe51365bf2cd0debb4b6c962c23683222349892/garcia_miller_morehouse_dec20.pdf) _Submitted_ (with [Brett Garcia](https://brettgarcia.com/) & [Keaton Miller](http://www.keatonmiller.org/))  
 
 
-- [Do polluters strategically locate near borders? The geography of US power plants and their emissions](https://rawcdn.githack.com/johnmorehouse/Papers/6fe51365bf2cd0debb4b6c962c23683222349892/morehouse_rubin_dec20.pdf) (with [Ed Rubin](http://edrub.in/))  
+- [Do polluters use borders and wind to strategically locate? The geography of power plants and their emissions](https://rawcdn.githack.com/johnmorehouse/Papers/92f464d68d4bd7ba124a28249507eba06dc3f8c7/morehouse_rubin_feb5.pdf) (with [Ed Rubin](http://edrub.in/))  
 
 **Works in Progress**
 
