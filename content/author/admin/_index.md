@@ -74,9 +74,9 @@ email = "jmorehou@uoregon.edu"
 
 +++
 
-Welcome! I am a fourth-year Economics Ph.D. student at the University of Oregon, focusing on public policy issues related to urban and environmental economics.
+Welcome! I am a fourth-year Economics Ph.D. student at the University of Oregon focusing on public policy issues related to urban and environmental economics.
 
-Broadly, my research focuses on delivering insight to public policy questions across a range of areas. Some overarching questions that arise in my research are: What are the consequences (costs and/or benefits) affiliated with implementing policy at different geographic levels?  What tradeoffs are we making when we implement policy at the county-level vs. state-level (or national)? Who wins? Who loses? 
+Broadly, my research is centered on public policy questions across a range of areas. Some overarching questions that arise in my research are: What are the consequences (costs and/or benefits) affiliated with implementing policy at different geographic levels?  What tradeoffs are we making when we implement policy at the county-level vs. state-level (or national)? Who wins? Who loses? 
 
 
 On a more personal note, I am a long-time cycling enthusiast. I am a (currently inactive) USA cycling category two road cyclist---and depending on the state of the COVID19 pandemic--- may return to amateur road racing in 2021. 
