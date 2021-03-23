@@ -41,7 +41,7 @@ publication_type = "-1"
 - [In Search of Peace and Quiet: The Heterogeneous Impacts of Short-Term Rentals on Housing Prices](https://rawcdn.githack.com/johnmorehouse/Papers/4676944650d6433c03503cf512731256a4c83747/airbnb/garcia_miller_morehouse_march421.pdf) _Submitted_ (with [Brett Garcia](https://brettgarcia.com/) & [Keaton Miller](http://www.keatonmiller.org/))  
 
 
-- [Downwind and Out: The Strategic Dispersion of Power Plants and Their Pollution](https://rawcdn.githack.com/johnmorehouse/Papers/4676944650d6433c03503cf512731256a4c83747/plant_locs/morehouse_rubin_march1621.pdf) (with [Ed Rubin](http://edrub.in/))  
+- [Downwind and Out: The Strategic Dispersion of Power Plants and Their Pollution](https://rawcdn.githack.com/johnmorehouse/Papers/33977d5cc57d44cedb934a1e9652b21d76aa7b97/plant_locs/morehouse_rubin_march23.pdf) (with [Ed Rubin](http://edrub.in/))  
 
 **Works in Progress**
 
