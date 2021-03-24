@@ -35,7 +35,7 @@ publication_type = "-1"
 **Working Papers**
 
 - [The Environmental Cost of Land-Use Restrictions](https://rawcdn.githack.com/johnmorehouse/Papers/6fe51365bf2cd0debb4b6c962c23683222349892/colas_morehouse_jan21.pdf) (with [Mark Colas](https://sites.google.com/site/markyaucolas/)) _Resubmitted_ __Quantitative Economics__   
-  -  ([Minneapolis Fed Coverage](https://www.minneapolisfed.org/article/2020/california-green-rush), [Slides](https://drive.google.com/file/d/1jDr6jjPqBfbAX-N6RDxSpCdRuIFeKs74/view))
+  -  [Minneapolis Fed Coverage](https://www.minneapolisfed.org/article/2020/california-green-rush), [Slides](https://drive.google.com/file/d/1jDr6jjPqBfbAX-N6RDxSpCdRuIFeKs74/view)
 
 
 
