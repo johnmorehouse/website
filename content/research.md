@@ -34,14 +34,18 @@ publication_type = "-1"
 
 **Working Papers**
 
-- [The Environmental Cost of Land-Use Restrictions](https://rawcdn.githack.com/johnmorehouse/Papers/6fe51365bf2cd0debb4b6c962c23683222349892/colas_morehouse_jan21.pdf) (with [Mark Colas](https://sites.google.com/site/markyaucolas/)) Resubmitted __Quantitative Economics__    ([Minneapolis Fed Coverage](https://www.minneapolisfed.org/article/2020/california-green-rush), [Presentation slides](https://drive.google.com/file/d/1jDr6jjPqBfbAX-N6RDxSpCdRuIFeKs74/view))
+- [The Environmental Cost of Land-Use Restrictions](https://rawcdn.githack.com/johnmorehouse/Papers/6fe51365bf2cd0debb4b6c962c23683222349892/colas_morehouse_jan21.pdf) (with [Mark Colas](https://sites.google.com/site/markyaucolas/)) _Resubmitted_ __Quantitative Economics__   
+  -  ([Minneapolis Fed Coverage](https://www.minneapolisfed.org/article/2020/california-green-rush), [Slides](https://drive.google.com/file/d/1jDr6jjPqBfbAX-N6RDxSpCdRuIFeKs74/view))
 
 
 
 - [In Search of Peace and Quiet: The Heterogeneous Impacts of Short-Term Rentals on Housing Prices](https://rawcdn.githack.com/johnmorehouse/Papers/4676944650d6433c03503cf512731256a4c83747/airbnb/garcia_miller_morehouse_march421.pdf) _Submitted_ (with [Brett Garcia](https://brettgarcia.com/) & [Keaton Miller](http://www.keatonmiller.org/))  
+  - [Slides](https://rawcdn.githack.com/johnmorehouse/Papers/460683f04134c174472243fa25e2b9b148583940/airbnb/mea/mea.html)
 
 
 - [Downwind and Out: The Strategic Dispersion of Power Plants and Their Pollution](https://rawcdn.githack.com/johnmorehouse/Papers/33977d5cc57d44cedb934a1e9652b21d76aa7b97/plant_locs/morehouse_rubin_march23.pdf) (with [Ed Rubin](http://edrub.in/))  
+  - [Slides](https://rawcdn.githack.com/johnmorehouse/Papers/5bfa394c6a5463c1858637c8ca61345c9c375b43/plant_locs/sbca/sbca.html)
+  
 
 **Works in Progress**
 
