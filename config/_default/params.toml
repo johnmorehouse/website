@@ -115,6 +115,7 @@ section_pager = false
 # Enable in-built social sharing buttons? (true/false)
 sharing = false
 
+abstract_length = 135
 
 # Configuration of project pages.
 [projects]
