@@ -43,7 +43,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Algorithms learn self-punishment schemes to keep supracompetitive prices'
+  caption: ''
   focal_point: ""
   preview_only: false
 
