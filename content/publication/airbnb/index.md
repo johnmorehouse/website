@@ -1,12 +1,12 @@
 ---
 title: "In Search of Peace and Quiet: The Heterogeneous Impacts of Short-Term Rentals on Housing Prices"
 authors:
-- "Brett Garcia, Keaton Miller & John Morehouse"
-date: "2021-04-01"
+- "Matteo Courthoud"
+date: "Brett Garcia, Keaton Miller & John Morehouse"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-04-01"
+publishDate: "2017-01-01"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -18,19 +18,19 @@ publication_types: []
 publication: ""
 publication_short: ""
 
-abstract: The supply of housing for short-term rental (STR) has grown dramatically with the emergence of platforms such as Airbnb. This trend has led to contradictory concerns about increasing housing prices and negative externalities. We provide evidence that in some areas, STRs can decrease housing prices. Using a parsimonious model of housing occupancy with externalities, we show the marginal effect of STRs on housing prices depends on the net impact of STRs on local amenities. Using zip-code-level data from Los Angeles County, California, we show heterogeneity in the marginal effects of Airbnb listings on housing prices across localities. We then examine the consequences of a 2015 law restricting STRs within the City of Santa Monica in the coastal region of Los Angeles County. In that City, we estimate a negative relationship between the prevalence of STRs and housing prices. Using a differences-in-differences approach, we show that the 2015 law increased housing prices -- which can be rationalized by our theory. Finally, we provide evidence for a potential mechanism: "party-related" nuisance calls to the Santa Monica Police Department decreased after the policy was enacted.
+abstract: Reinforcement learning algorithms are gradually replacing humans in many decision making processes, such as pricing in high-frequency markets. Recent studies on algorithmic pricing have shown that algorithms can learn sophisticated grim-trigger strategies with the intent of keeping supracompetitive prices. One suggestion to detect algorithmic collusion is to look at the inputs of the dynamic strategies. In this paper, I show that this approach might not be sufficient since the algorithms can learn reward-punishment schemes that are fully independent from the rival’s actions. Moreover, I show that the crucial ingredient in algorithmic collusion is synchronous learning. When one algorithm is unilaterally retrained, it learns more competitive strategies that exploit collusive behavior. Since this change in strategies happens only when algorithms are colluding, retraining can be used as an instrument to detect algorithmic collusion. Lastly, I show how one can get the same insights on collusive behavior by retraing the algorithms on boostrapped samples of historical data.
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: I show that algorithms can learn reward-punishment schemes that are fully independent from the rival’s actions and I propose a model-free test for algorithmic collusion based on historical data.
 
 tags:
-- Real Estate
-- Short Term Rentals
-- Urban Economics
+- Industrial Organization
+- Computation
+- Dynamics
 featured: false
 
 links:
-url_pdf: 'files/airbnb.pdf'
+url_pdf: 'files/courthoud2021algorithms.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -42,7 +42,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'The Heterogeneous Impacts of Airbnb Listings on Housing Prices'
+  caption: 'Algorithms learn self-punishment schemes to keep supracompetitive prices'
   focal_point: ""
   preview_only: false
 
