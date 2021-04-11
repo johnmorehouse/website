@@ -1,6 +1,6 @@
 ---
 title: Slides
-summary: An introduction to using Wowchemy's Slides feature.
+summary: An introduction to using Academic's Slides feature.
 authors: []
 tags: []
 categories: []
@@ -13,9 +13,9 @@ slides:
   highlight_style: dracula
 ---
 
-# Create slides in Markdown with Wowchemy
+# Create slides in Markdown with Academic
 
-[Wowchemy](https://wowchemy.com/) | [Documentation](https://owchemy.com/docs/managing-content/#create-slides)
+[Academic](https://sourcethemes.com/academic/) | [Documentation](https://sourcethemes.com/academic/docs/managing-content/#create-slides)
 
 ---
 
@@ -129,14 +129,14 @@ Press the `S` key to view the speaker notes!
 
 ---
 
-{{< slide background-image="/media/boards.jpg" >}}
+{{< slide background-image="/img/boards.jpg" >}}
 
 ## Custom Slide
 
 Customize the slide style and background
 
 ```markdown
-{{</* slide background-image="/media/boards.jpg" */>}}
+{{</* slide background-image="/img/boards.jpg" */>}}
 {{</* slide background-color="#0000FF" */>}}
 {{</* slide class="my-style" */>}}
 ```
@@ -161,6 +161,6 @@ Create `assets/css/reveal_custom.css` with:
 
 # Questions?
 
-[Ask](https://github.com/wowchemy/wowchemy-hugo-modules/discussions)
+[Ask](https://spectrum.chat/academic)
 
-[Documentation](https://wowchemy.com/docs/managing-content/#create-slides)
+[Documentation](https://sourcethemes.com/academic/docs/managing-content/#create-slides)

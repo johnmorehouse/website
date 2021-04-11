@@ -3,7 +3,6 @@ title: Writing technical content in Academic
 date: 2019-07-12
 math: true
 diagram: true
-highlight: true
 image:
   placement: 3
   caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
@@ -35,18 +34,6 @@ data = pd.read_csv("data.csv")
 data.head()
 ```
 
-### Charts
-
-Academic supports the popular [Plotly](https://plot.ly/) chart format.
-
-Save your Plotly JSON in your page folder, for example `chart.json`, and then add the `{{</* chart data="chart" */>}}` shortcode where you would like the chart to appear.
-
-Demo:
-
-{{< chart data="line-chart" >}}
-
-You might also find the [Plotly JSON Editor](http://plotly-json-editor.getforge.io/) useful.
-
 ### Math
 
 Academic supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the `math` option in your `config/_default/params.toml` file.
@@ -55,7 +42,7 @@ To render *inline* or *block* math, wrap your LaTeX math with `$...$` or `$$...$
 
 Example **math block**:
 
-```latex
+```tex
 $$\gamma_{n} = \frac{ 
 \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T 
 \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}
@@ -70,15 +57,15 @@ Example **inline math** `$\nabla F(\mathbf{x}_{n})$` renders as $\nabla F(\mathb
 
 Example **multi-line math** using the `\\\\` math linebreak:
 
-```latex
-$$f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} & \text{if }k=1, \\\\
-1-p_{0}^{*} & \text{if }k=0.\end{cases}$$
+```tex
+$$f(k;p_0^*) = \begin{cases} p_0^* & \text{if }k=1, \\\\
+1-p_0^* & \text {if }k=0.\end{cases}$$
 ```
 
 renders as
 
-$$f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} & \text{if }k=1, \\\\
-1-p_{0}^{*} & \text{if }k=0.\end{cases}$$
+$$f(k;p_0^*) = \begin{cases} p_0^* & \text{if }k=1, \\\\
+1-p_0^* & \text {if }k=0.\end{cases}$$
 
 ### Diagrams
 
@@ -258,21 +245,21 @@ renders as
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
-### Callouts
+### Asides
 
-Academic supports a [shortcode for callouts](https://wowchemy.com/docs/content/writing-markdown-latex/#callouts), also referred to as *asides*, *hints*, or *alerts*. By wrapping a paragraph in `{{%/* callout note */%}} ... {{%/* /callout */%}}`, it will render as an aside.
+Academic supports a [shortcode for asides](https://sourcethemes.com/academic/docs/writing-markdown-latex/#alerts), also referred to as *notices*, *hints*, or *alerts*. By wrapping a paragraph in `{{%/* alert note */%}} ... {{%/* /alert */%}}`, it will render as an aside.
 
 ```markdown
-{{%/* callout note */%}}
+{{%/* alert note */%}}
 A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-{{%/* /callout */%}}
+{{%/* /alert */%}}
 ```
 
 renders as
 
-{{% callout note %}}
+{{% alert note %}}
 A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-{{% /callout %}}
+{{% /alert %}}
 
 ### Spoilers
 
