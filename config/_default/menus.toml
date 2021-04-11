@@ -5,7 +5,7 @@
 
 [[main]]
   name = "Home"
-  url = "#author/admin"
+  url = "#about"
   weight = 1
 
 
