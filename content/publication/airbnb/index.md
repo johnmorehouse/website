@@ -2,11 +2,11 @@
 title: "In Search of Peace and Quiet: The Heterogeneous Impacts of Short-Term Rentals on Housing Prices"
 authors:
 - "Brett Garcia, Keaton Miller & John Morehouse"
-date: "2021-02-01"
+date: "2021-04-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: ""
+publishDate: "2021-04-01"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
