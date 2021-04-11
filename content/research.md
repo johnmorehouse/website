@@ -44,7 +44,7 @@ publication_type = "-1"
 - [Downwind and Out: The Strategic Dispersion of Power Plants and Their Pollution](https://rawcdn.githack.com/johnmorehouse/Papers/33977d5cc57d44cedb934a1e9652b21d76aa7b97/plant_locs/morehouse_rubin_march23.pdf) (with [Ed Rubin](http://edrub.in/))  [Slides](https://rawcdn.githack.com/johnmorehouse/Papers/5bfa394c6a5463c1858637c8ca61345c9c375b43/plant_locs/sbca/sbca.html)
   
 
-**Works in Progress**
+**Work in Progress**
 
 
 - Carbon Taxes in Spatial Equilibrium
