@@ -1,19 +1,19 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1618268370869.000,
+    "created" : 1618268670423.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
     "hash" : "0",
-    "id" : "7C9236D8",
-    "lastKnownWriteTime" : 1618268497,
-    "last_content_update" : 1618268497379,
-    "path" : "~/Dropbox/website/config/_default/params.toml",
-    "project_path" : "config/_default/params.toml",
+    "id" : "EC87E81D",
+    "lastKnownWriteTime" : 1618244465,
+    "last_content_update" : 1618244465,
+    "path" : "~/Dropbox/website/data/themes/john.toml",
+    "project_path" : "data/themes/john.toml",
     "properties" : {
-        "cursorPosition" : "170,28",
-        "scrollLine" : "166"
+        "cursorPosition" : "11,24",
+        "scrollLine" : "4"
     },
     "read_only" : false,
     "read_only_alternatives" : [
