@@ -5,10 +5,10 @@
 
 # Appearance
 
-theme: john
+theme: 'john'
 day_night: true
-font: john
-font_size: L
+font: 'john'
+font_size: M
 
 # SEO
 

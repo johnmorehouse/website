@@ -7,13 +7,13 @@
     "folds" : "",
     "hash" : "0",
     "id" : "86730BA8",
-    "lastKnownWriteTime" : 1618267308,
-    "last_content_update" : 1618267308346,
+    "lastKnownWriteTime" : 1618267447,
+    "last_content_update" : 1618267447051,
     "path" : "~/Dropbox/website/themes/starter-academic/config/_default/params.yaml",
     "project_path" : "themes/starter-academic/config/_default/params.yaml",
     "properties" : {
-        "cursorPosition" : "9,10",
-        "scrollLine" : "8"
+        "cursorPosition" : "10,12",
+        "scrollLine" : "4"
     },
     "read_only" : false,
     "read_only_alternatives" : [
