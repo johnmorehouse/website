@@ -1,0 +1,11 @@
+# Font style metadata
+name = "john"
+
+# Optional Google font URL
+google_fonts = "Merriweather:400,400i|Karla:400,400i,700,700i|DM+Mono"
+
+# Font families
+heading_font = "Merriweather"
+body_font = "Merriweather"
+nav_font = "Merriweather"
+mono_font = "DM Mono"
