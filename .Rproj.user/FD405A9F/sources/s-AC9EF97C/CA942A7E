@@ -12,8 +12,8 @@
     "path" : "~/Dropbox/website/config/_default/params.yaml",
     "project_path" : "config/_default/params.yaml",
     "properties" : {
-        "cursorPosition" : "10,12",
-        "scrollLine" : "0"
+        "cursorPosition" : "46,10",
+        "scrollLine" : "43"
     },
     "read_only" : false,
     "read_only_alternatives" : [
