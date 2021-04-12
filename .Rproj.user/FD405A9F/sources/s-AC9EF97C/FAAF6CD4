@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1618267534650.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1033057876",
+    "id" : "FAAF6CD4",
+    "lastKnownWriteTime" : 1618266279,
+    "last_content_update" : 1618266279,
+    "path" : "~/Dropbox/website/config.yaml",
+    "project_path" : "config.yaml",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "yaml"
+}
