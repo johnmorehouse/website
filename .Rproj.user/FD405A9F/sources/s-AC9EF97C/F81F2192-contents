@@ -1,0 +1,23 @@
+# Theme metadata
+name = "john"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#DE425B"
+
+
+# Menu
+menu_primary = "#228B22"
+menu_text = "#fff"
+menu_text_active = "#fff"
+menu_title = "#fff"
+
+# Backgrounds
+background = "#EAE7D6"
+home_section_odd = "#EAE7D6"
+home_section_even = "#EAE7D6"
+
+
+plugins_css = ["custom"]
