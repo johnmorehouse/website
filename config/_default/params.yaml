@@ -5,9 +5,9 @@
 
 # Appearance
 
-theme: 'john'
+theme: john
 day_night: false
-font: 'john'
+font: john
 font_size: M
 
 # SEO
