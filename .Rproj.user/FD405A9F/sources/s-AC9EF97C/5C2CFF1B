@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1618274369043.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "5C2CFF1B",
+    "lastKnownWriteTime" : 1618274405,
+    "last_content_update" : 1618274405377,
+    "path" : "~/Dropbox/website/themes/starter-academic/data/themes/john.yaml",
+    "project_path" : "themes/starter-academic/data/themes/john.yaml",
+    "properties" : {
+        "cursorPosition" : "9,24",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "yaml"
+}
