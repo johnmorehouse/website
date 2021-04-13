@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tutorial | John Morehouse</title>
+    <link>https://www.johnmmorehouse.com/tag/tutorial/</link>
+      <atom:link href="https://www.johnmmorehouse.com/tag/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <description>tutorial</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 John Morehouse</copyright><lastBuildDate>Sun, 11 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.johnmmorehouse.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>tutorial</title>
+      <link>https://www.johnmmorehouse.com/tag/tutorial/</link>
+    </image>
+    
+    <item>
+      <title>Coding Resources</title>
+      <link>https://www.johnmmorehouse.com/post/coding/</link>
+      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.johnmmorehouse.com/post/coding/</guid>
+      <description>&lt;p&gt;Here is a collection of resources I have found useful for coding. I will slowly add to this list&lt;/p&gt;
+&lt;h2 id=&#34;general-r&#34;&gt;General R&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/grantmcdermott/R-intro&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Grant + Ed&amp;rsquo;s Intro to R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://r4ds.had.co.nz/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R for Data Science&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/uo-ec607&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Data Science for Economists&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;general-julia&#34;&gt;General Julia&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://benlauwens.github.io/ThinkJulia.jl/latest/book.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Think Julia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://lectures.quantecon.org/jl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Quant Econ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;cloud-computing&#34;&gt;Cloud Computing&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/johnmorehouse/GCENotes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;My Google Compute Engine Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;econometrics&#34;&gt;Econometrics&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/edrubin/EC421S19&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ed&amp;rsquo;s Undergrad Metrics II Course&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/edrubin/EC525S19&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ed&amp;rsquo;s Graduate Course&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/mcreel/Econometrics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Econometrics in Julia&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;optimization&#34;&gt;Optimization&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://faculty.ucmerced.edu/mcarreira-perpinan/teaching/EECS260/lecture-notes.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Miguel Á. Carreira-Perpiñán&amp;rsquo;s Notes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/AEM7130/SPRING2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ivan Rudik&amp;rsquo;s Dynamic Optimization Course&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

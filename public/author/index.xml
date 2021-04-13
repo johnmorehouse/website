@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>John Morehouse</title>
+    <link>https://www.johnmmorehouse.com/author/</link>
+      <atom:link href="https://www.johnmmorehouse.com/author/index.xml" rel="self" type="application/rss+xml" />
+    <description>John Morehouse</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 John Morehouse</copyright>
+    <image>
+      <url>https://www.johnmmorehouse.com/author/avatar_hu22315e0dcc7e99dd63164edbfc4af1e9_2427015_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>John Morehouse</title>
+      <link>https://www.johnmmorehouse.com/author/</link>
+    </image>
+    
+  </channel>
+</rss>

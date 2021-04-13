@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mark Colas and John Morehouse | John Morehouse</title>
+    <link>https://www.johnmmorehouse.com/author/mark-colas-and-john-morehouse/</link>
+      <atom:link href="https://www.johnmmorehouse.com/author/mark-colas-and-john-morehouse/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mark Colas and John Morehouse</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 John Morehouse</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.johnmmorehouse.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Mark Colas and John Morehouse</title>
+      <link>https://www.johnmmorehouse.com/author/mark-colas-and-john-morehouse/</link>
+    </image>
+    
+    <item>
+      <title>The Environmental Cost of Land Use Restrictions</title>
+      <link>https://www.johnmmorehouse.com/publication/land_use_regs/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.johnmmorehouse.com/publication/land_use_regs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
