@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1618274614079.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "857FF70F",
+    "lastKnownWriteTime" : 1618274623,
+    "last_content_update" : 1618274623509,
+    "path" : "~/Dropbox/website/themes/starter-academic/data/themes/john.toml",
+    "project_path" : "themes/starter-academic/data/themes/john.toml",
+    "properties" : {
+        "cursorPosition" : "19,25",
+        "scrollLine" : "6"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
