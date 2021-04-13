@@ -3,7 +3,7 @@ title: "Carbon Taxes in Spatial Equilibrium"
 authors:
 - "John Morehouse"
 - "Job Market Paper"
-date: "2021-04-01"
+date: "2021-04-05"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
