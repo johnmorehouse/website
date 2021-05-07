@@ -31,7 +31,7 @@ featured: false
 
 links:
 url_pdf: 'files/papers/plant_locations.pdf'
-url_slides: 'files/slides/sbca.pdf'
+url_slides: 'files/slides/osweet.pdf'
 
 
 # Featured image
