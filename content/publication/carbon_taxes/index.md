@@ -32,12 +32,12 @@ tags:
 featured: false
 
 links:
+url_slides: 'files/slides/carbontaxes.pdf'
 url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
 url_source: ''
 url_video: ''
 
