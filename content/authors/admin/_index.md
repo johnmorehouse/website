@@ -74,12 +74,12 @@ user_groups:
 
 ---
 
-Welcome! I am a fourth-year Economics Ph.D. student at the University of Oregon focusing on public policy issues related to urban and environmental economics.
+Welcome to my website. I am a Ph.D. candidate in Economics at the University of Oregon focusing on environmental and urban economics. Currently, I am a dissertation intern at the Federal Reserve Bank of San Francisco. 
+
+Generally, I am interested in public policy questions surrounding markets with externalities. My research uses tools from various subfields in economics including structural estimation and modern causal inference techniques.
+
+Please don't hesitate to contact me with any questions. 
 
 
 
-
-
-![Shotgun Creek](/img/oregon_gravel.jpg)
-*A beautiful spring day pedaling through the Shotgun Creek Trail System outside of Marcola, OR.*
 
