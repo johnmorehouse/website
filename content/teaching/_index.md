@@ -12,7 +12,7 @@ All course reviews are available upon request.
 
 __*Instructor of Record*__
 
-- **ECON 330**: Urban and Regional Economic Issues ([Winter 2021](https://github.com/johnmorehouse/EC330-Winter2021), [Winter 2020](https://github.com/johnmorehouse/EC330_UrbanEcon))
+- **ECON 330**: Urban and Regional Economic Issues ([Spring 2021](https://github.com/johnmorehouse/EC330-S21), Winter 2021, Winter 2020)
 
 
 - **ECON 421**: Introduction to Econometrics (II) (Summer 2020, online)
