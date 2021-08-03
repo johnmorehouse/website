@@ -2,11 +2,11 @@
 title: "The Environmental Cost of Land Use Restrictions"
 authors:
 - "Mark Colas and John Morehouse"
-date: "2021-01-01"
+date: "2021-08-03"
 doi: ""
 custom_status = "Revise and Resubmitted: Quantitative Economics"
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-01-01"
+publishDate: "2021-08-03"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
