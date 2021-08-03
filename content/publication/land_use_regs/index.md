@@ -59,5 +59,5 @@ slides:
 
 ---
 
-__Revise and Resubmitted: Quantitative Economics__
+__Accepted: Quantitative Economics__
 
