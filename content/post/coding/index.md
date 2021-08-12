@@ -29,7 +29,7 @@ Here is a collection of resources I have found useful for coding. I will slowly 
 
 * [Think Julia](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html)
 * [Quant Econ](https://lectures.quantecon.org/jl/)
-*[Tyler Ransom's intro to Julia](https://github.com/jmxpearson/duke-julia-ssri)
+* [Tyler Ransom's intro to Julia](https://github.com/jmxpearson/duke-julia-ssri)
 
 
 
