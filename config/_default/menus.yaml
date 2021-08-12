@@ -25,10 +25,20 @@ main:
     weight: 40
     
     menu: 
+  - name: Courses and Notes
+    parent: resources
+    url: /post/courses
+    weight: 1
+    
   - name: Coding
     parent: resources
     url: /post/coding
-    weight: 1
+    weight: 2
+    
+  - name: Misc.
+    parent: resources
+    url: /post/misc
+    weight: 3
     
   - name: CV
     url: 'files/cv.pdf'

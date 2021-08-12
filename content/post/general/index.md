@@ -29,15 +29,21 @@ Here is a collection of resources I have found useful for coding. I will slowly 
 
 * [Think Julia](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html)
 * [Quant Econ](https://lectures.quantecon.org/jl/)
-*[Tyler Ransom's intro to Julia](https://github.com/jmxpearson/duke-julia-ssri)
 
+
+## Cloud Computing
+
+* [My Google Compute Engine Notes](https://github.com/johnmorehouse/GCENotes)
 
 
 ## Econometrics
 
+* [Ed's Undergrad Metrics II Course](https://github.com/edrubin/EC421S19)
+* [Ed's Graduate Course](https://github.com/edrubin/EC525S19)
 * [Econometrics in Julia](https://github.com/mcreel/Econometrics)
 
-## Misc
+## Optimization
 
-* [Mark Ponder: demand estimation in Julia](https://mark-ponder.com/tutorials/static-discrete-choice-models/random-coefficients-blp/)
-* [My Google Compute Engine Notes](https://github.com/johnmorehouse/GCENotes)
+
+* [Miguel Á. Carreira-Perpiñán's Notes](http://faculty.ucmerced.edu/mcarreira-perpinan/teaching/EECS260/lecture-notes.pdf)
+* [Ivan Rudik's Dynamic Optimization Course](https://github.com/AEM7130/SPRING2019)
