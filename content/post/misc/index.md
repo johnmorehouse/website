@@ -1,7 +1,7 @@
 ---
 
 title: Coding Resources
-linktitle: Coding Resources
+linktitle: Misc. links
 toc: true
 date: "2021-04-11"
 draft: false

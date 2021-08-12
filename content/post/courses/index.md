@@ -1,7 +1,7 @@
 ---
 
 title: Courses and Notes
-linktitle: Coding Resources
+linktitle: Courses and Notes
 toc: true
 date: "2021-04-11"
 draft: false
