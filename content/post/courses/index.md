@@ -27,7 +27,7 @@ __Grant McDermott:__ [Data Science for Economists](https://github.com/uo-ec607/l
 
 __Ivan Rudik:__  [Dynamic Optimization](https://github.com/AEM7130/), [Master's Env Econ](https://github.com/irudik/aem6510)
 
-__Kyle Raze:__  [Undergrad Metrics I](https://github.com/kyleraze/EC320_Econometrics) [Intro Labor](labor: https://github.com/kyleraze/EC350_Labor_Economics ) [Intro Micro](https://github.com/kyleraze/EC201_Microeconomics)
+__Kyle Raze:__  [Undergrad Metrics I](https://github.com/kyleraze/EC320_Econometrics) [Intro Labor](https://github.com/kyleraze/EC350_Labor_Economics ) [Intro Micro](https://github.com/kyleraze/EC201_Microeconomics)
 
 ## Notes
 
