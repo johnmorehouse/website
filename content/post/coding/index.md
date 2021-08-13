@@ -27,6 +27,7 @@ Here is a collection of resources I have found useful for coding. I will slowly 
 
 ## General Julia
 
+* [DataFramesMeta.jl tutorial (coming from dplyr)](https://juliadata.github.io/DataFramesMeta.jl/stable/dplyr/#Arrange-Or-Re-order-Rows-Using-@orderby)
 * [Think Julia](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html)
 * [Quant Econ](https://lectures.quantecon.org/jl/)
 * [Tyler Ransom's intro to Julia](https://github.com/jmxpearson/duke-julia-ssri)
