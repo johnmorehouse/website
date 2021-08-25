@@ -74,9 +74,7 @@ user_groups:
 
 ---
 
-Welcome to my website. I am a Ph.D. candidate in Economics at the University of Oregon focusing on environmental and urban economics. Currently, I am a dissertation intern at the Federal Reserve Bank of San Francisco. 
-
-Generally, I am interested in public policy questions surrounding markets with externalities. My research uses tools from various subfields in economics including structural estimation and modern causal inference techniques.
+Welcome to my website. I am a Ph.D. candidate in Economics at the University of Oregon where I focus on __labor__, __environmental__, and __urban__ economics. My research addresses spatial heterogeneity in responses to public policy such as the US Clean Air Act and local housing regulations. I am on the 2021-2022 job market and will be available for interviews.
 
 Please don't hesitate to contact me with any questions. 
 
