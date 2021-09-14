@@ -76,7 +76,6 @@ user_groups:
 
 Welcome to my website. I am a Ph.D. candidate in Economics at the University of Oregon where I focus on __labor__, __environmental__, and __urban__ economics. My research addresses spatial heterogeneity in responses to public policy such as the US Clean Air Act and local housing regulations. I am on the 2021-2022 job market and will be available for interviews.
 
-Please don't hesitate to contact me with any questions. 
 
 
 
