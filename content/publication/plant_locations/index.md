@@ -1,7 +1,7 @@
 ---
 title: "Downwind and Out: The Strategic Dispersion of Power Plants and Their Pollution"
 authors:
-- "Edward Rubin and John Morehouse"
+- "John Morehouse and Edward Rubin"
 date: "2021-04-01"
 doi: ""
 
