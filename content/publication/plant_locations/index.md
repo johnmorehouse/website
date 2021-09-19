@@ -27,7 +27,7 @@ tags:
 - Air Pollution
 - Federalism
 - Environmental Economics
-featured: false
+featured: true
 
 links:
 url_pdf: 'files/papers/plant_locations.pdf'
