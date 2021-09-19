@@ -1,7 +1,9 @@
 ---
 
 header:
-  caption: ""
+  caption: "Test"
   image: ""
 title: Research
+
+featured: True
 ---
