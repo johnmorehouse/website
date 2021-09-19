@@ -28,7 +28,7 @@ summary:  __Forthcoming:__ _Quantitative Economics._ <br />We examine the effect
 tags:
 - Urban Economics
 - Environmental Economics
-featured: false
+featured: true
 
 links:
 url_pdf: 'files/papers/landuse_regs.pdf'

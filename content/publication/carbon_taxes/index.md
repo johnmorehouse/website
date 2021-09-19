@@ -29,7 +29,7 @@ tags:
 - Urban Economics
 - Residential Sorting
 
-featured: false
+featured: true
 
 links:
 url_slides: 'files/slides/carbontaxes.pdf'
