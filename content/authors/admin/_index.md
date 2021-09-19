@@ -24,9 +24,9 @@ bio: I am a fourth-year PhD student at the University of Oregon interested in en
 
 interests:
 - Environmental Economics
+- Labor Economics
 - Urban Economics
-- Air Quality Policy and Monitoring
-- Structural Estimation
+- Public Policy
 
 
 education:
@@ -34,10 +34,10 @@ education:
   - course: PhD in Economics
     institution: University of Oregon
     year: 2022*
-  - course: MSc in Economics
+  - course: MS in Economics
     institution: University of Oregon
     year: 2018
-  - course: BSc in Economics
+  - course: BS in Economics
     institution: University of Oregon
     year: 2016
 
