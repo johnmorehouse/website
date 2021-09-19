@@ -25,7 +25,7 @@ summary: __Revise and Resubmit:__ _Regional Science and Urban Economics._ <br />
 
 tags:
 - Real Estate
-featured: false
+featured: true
 
 links:
 url_pdf: 'files/papers/airbnb.pdf'

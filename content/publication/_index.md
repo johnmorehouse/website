@@ -5,5 +5,5 @@ header:
   image: ""
 title: Research
 
-featured: True
+featured: true
 ---
