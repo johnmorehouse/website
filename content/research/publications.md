@@ -66,5 +66,5 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-{{< ref "/publication/_index.md" >}}
+{{< "/publication/_index.md" >}}
 
