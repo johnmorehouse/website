@@ -13,11 +13,17 @@ main:
     identifier: research
     url: /research
     weight: 20
+    
+  - name: papers
+    url: research#working_papers
+    parent: research
+    weight: 22
 
+    
   - name: Working Papers
     url: research#wip
     parent: research
-    weight: 22
+    weight: 23
 
 
     
