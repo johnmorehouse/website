@@ -10,12 +10,18 @@ main:
 
     
   - name: Research
+    identifier: research
     url: /publication
     weight: 20
+    
+  - name: Working Papers
+    url: /works-in-progress
+    parent: research
+    weight: 21
+
 
     
-  
-  
+
   
   - name: Teaching
     url: teaching/
