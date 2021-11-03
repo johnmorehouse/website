@@ -66,5 +66,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-{{< "/publication/_index.md" >}}
+
+{{% callout note %}} Filter by [publication type]({{< ref "/publication/_index.md" >}}
 
