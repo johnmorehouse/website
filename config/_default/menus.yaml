@@ -14,7 +14,7 @@ main:
     url: /research
     weight: 20
     
-  - name: Working Papers
+  - name: 
     url: research#working_papers
     parent: research
     weight: 22
