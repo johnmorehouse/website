@@ -15,11 +15,6 @@ main:
     weight: 20
     
   - name: Working Papers
-    url: research#pubs
-    parent: research
-    weight: 21
-    
-  - name: Working Papers
     url: research#wip
     parent: research
     weight: 22
