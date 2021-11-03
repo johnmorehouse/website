@@ -20,7 +20,7 @@ organizations:
   url: "https://economics.uoregon.edu/profile/jmorehou/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a fourth-year PhD student at the University of Oregon interested in environmental and urban economics. 
+bio: I am a PhD candidate at the University of Oregon interested in environmental and urban economics. 
 
 interests:
 - Environmental Economics
