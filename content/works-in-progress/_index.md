@@ -3,6 +3,6 @@
 header:
   caption: 
   image: ""
-title: works-in-progress
+title: Works in Progress
 
 ---
