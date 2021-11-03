@@ -11,12 +11,10 @@ main:
     
   - name: Research
     identifier: research
-    url: /research
+    url: /publications
     weight: 20
 
-
     
-
   
   - name: Teaching
     url: teaching/
