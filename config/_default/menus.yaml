@@ -11,7 +11,7 @@ main:
     
   - name: Research
     identifier: research
-    url: /research
+    url: research#publications
     weight: 20
     
 
