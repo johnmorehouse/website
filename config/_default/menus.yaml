@@ -12,9 +12,7 @@ main:
   - name: Research
     url: /publication
     weight: 20
-    parent: Research
-    url: /works-in-progress
-    weight: 21
+
     
   
   
