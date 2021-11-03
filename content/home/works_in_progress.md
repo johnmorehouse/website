@@ -70,6 +70,6 @@ subtitle = ""
 
 - The Big City Wage Premium: Labor Market Power and Skill Sorting (with Sophie Mathes)
 
-
+- Migration or Mitigation? Disentangling Climate Change Adaptation (with Emmett Saulnier)
 
 
