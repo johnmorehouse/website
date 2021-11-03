@@ -17,7 +17,7 @@ main:
 
     
   - name: Works in Progress
-    url: research#pubs2
+    url: research#working_papers
     parent: research
     weight: 24
 
