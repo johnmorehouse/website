@@ -11,13 +11,10 @@ main:
     
   - name: Research
     identifier: research
-    url: research/
+    url: /research
     weight: 20
     
- - name: Works in Progress
-    url: research#publications
-    parent: research
-    weight: 24
+
     
   - name: Works in Progress
     url: research#working_papers
