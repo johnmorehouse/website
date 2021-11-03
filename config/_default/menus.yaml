@@ -12,7 +12,7 @@ main:
   - name: Research
     url: /publication
     weight: 20
-    url: /works-in-progress
+    url: '#works-in-progress'
     weight: 21
   
   - name: Teaching
