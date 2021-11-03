@@ -10,7 +10,7 @@ main:
 
     
   - name: Research
-    url: /publication
+    url: /#publication
     weight: 20
 
     
