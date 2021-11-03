@@ -15,7 +15,7 @@ publishDate: "2021-08-03"
 publication_types: []
 
 # Publication name and optional abbreviated publication name.
-publication: "Forthcoming: Quantitative Economics"
+publication: "Forthcoming, Quantitative Economics"
 publication_short: ""
 
 abstract: "Cities with cleaner power plants and lower energy demand tend also to have tighter land use restrictions; these restrictions increase housing prices
