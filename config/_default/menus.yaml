@@ -15,7 +15,7 @@ main:
     weight: 20
     
   - name: Working Papers
-    url: /works-in-progress
+    url: works-in-progress#wip
     parent: research
     weight: 21
 
