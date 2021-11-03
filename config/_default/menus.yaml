@@ -14,7 +14,6 @@ main:
     url: /research
     weight: 20
 
-    
   - name: Working Papers
     url: research#wip
     parent: research
