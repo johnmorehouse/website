@@ -17,7 +17,7 @@ main:
 
     
   - name: Works in Progress
-    url: /pubs-2
+    url: /pubs2
     parent: research
     weight: 24
 
