@@ -2,8 +2,9 @@
 title: "The Environmental Cost of Land Use Restrictions"
 authors:
 - "Mark Colas and John Morehouse"
+- "Forthcoming: QE"
 date: "2021-09-03"
-doi: "QE"
+doi: ""
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-08-03"
 
