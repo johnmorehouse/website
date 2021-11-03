@@ -22,6 +22,11 @@ main:
     weight: 24
 
 
+  - name: Works in Progress
+    url: research#wip
+    parent: research
+    weight: 25
+
     
 
   
