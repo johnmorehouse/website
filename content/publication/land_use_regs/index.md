@@ -1,7 +1,6 @@
 ---
 title: "The Environmental Cost of Land Use Restrictions"
 authors:
-- "Forthcoming: Quantitative Economics"
 - "Mark Colas and John Morehouse"
 date: "2021-09-03"
 doi: ""

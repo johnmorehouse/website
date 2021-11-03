@@ -1,18 +1,18 @@
 +++
 # A Recent Publications section created with the Pages widget.
-# This section displays recent blog posts from `content/pubs2/`.
+# This section displays recent blog posts from `content/working_papers/`.
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 64  # Order that this section will appear.
 
-title = "Papers"
+title = "Working Papers"
 subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "pubs2"
+  page_type = "working_papers"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 0
