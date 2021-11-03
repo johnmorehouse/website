@@ -16,7 +16,7 @@ publication_types: []
 
 # Publication name and optional abbreviated publication name.
 publication: ""
-publication_short: ""
+publication_short: "Quant Econ"
 
 abstract: "Cities with cleaner power plants and lower energy demand tend also to have tighter land use restrictions; these restrictions increase housing prices
 and reduce the incentive for households to live in these lower greenhouse gas-emitting cities. We use a spatial equilibrium model to quantify the overall effects of land use restrictions on the levels and spatial distribution of household carbon emissions. Our model features heterogeneous households, cities that vary in both their power plant technologies and their utility benefits of energy usage, as well as endogenous wages and rents. Relaxation of the current land use restrictions in California to the level faced by the median urban household in the US leads to a 0.6% drop in national household carbon emissions and a decrease in the social cost of carbon of $310 million annually."
