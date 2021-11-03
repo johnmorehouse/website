@@ -4,7 +4,7 @@ authors:
 - "Mark Colas and John Morehouse"
 date: "2021-09-03"
 doi: ""
-custom_status = "Revise and Resubmitted: Quantitative Economics"
+custom_status = "Quantitative Economics"
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-08-03"
 
@@ -15,7 +15,7 @@ publishDate: "2021-08-03"
 publication_types: []
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Forthcoming: Quantitative Economics"
 publication_short: ""
 
 abstract: "Cities with cleaner power plants and lower energy demand tend also to have tighter land use restrictions; these restrictions increase housing prices
