@@ -2,11 +2,11 @@
 title: "Carbon Taxes in Spatial Equilibrium"
 authors:
 - "John Morehouse"
-date: "2021-04-05"
+date: "2021-11-09"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-04-01"
+publishDate: "2021-11-09"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,10 +19,10 @@ publication: ""
 publication_short: ""
 
 
-abstract: "Residential, industrial, and commercial carbon emissions vary substantially throughout the U.S. This variation is primarily due to differences in industrial and residential energy consumption across cities. Recent empirical evidence suggests that carbon taxation differentially affects wages across sectors. To assess the spatial and sectoral equity-efficiency tradeoff with carbon taxation, I develop and estimate a quantitative general equilibrium model. After estimating the model's structural parameters, I simulate various carbon pricing policy regimes. The model separately identifies two effects of carbon taxes on wages: direct effects (via output reduction and input substitution) and indirect impacts (via workers sorting across cities and sectors). Preliminary results suggest that the burden of carbon pricing disproportionately falls on low-income individuals with significant heterogeneity across cities and sectors."
+abstract: "Residential, industrial, and commercial carbon dioxide emissions vary substantially across cities and sectors; this variation has led to concerns about the distributional consequences of carbon pricing policies. I develop and estimate a spatial equilibrium model to quantify the incidence from a stylized carbon tax across cities, sectors, and education groups in the U.S. The model features heterogeneous households, firms in multiple locations, sectors that use energy and labor as imperfect substitutes, and region-specific carbon emissions rates due to differences in the fuel mix used to generate electricity. A uniform carbon tax has substantial distributional effects, with uneducated workers in manufacturing bearing the greatest burden. The share of the total tax burden attributable to coal-fired electricity varies significantly across regions. I also use the model to demonstrate that progressive compensation leads to a decline in aggregate carbon emissions relative to flat transfers,  due to a reallocation of workers into cities and sectors that are less carbon-intensive."
 
 # Summary. An optional shortened abstract.
-summary: __Job Market Paper__ <br /> I estimate the spatial and sectoral distribution of incidence from carbon pricing by developing and estimating a quantitative spatial equilibrium model. The model highlights an equity-efficiency tradeoff that is unique to carbon taxes in a spatial setting.
+summary: __Job Market Paper__ <br /> I estimate the spatial and sectoral distribution of incidence from carbon pricing by developing and estimating a quantitative spatial equilibrium model. I find workers without a college degree in manufacturing bear the greatest burden. I also use the model to demonstrate that progressive compensation leads to a decline in aggregate carbon emissions relative to flat transfers,  due to a reallocation of workers into cities and sectors that are less carbon-intensive
 
 tags:
 - Climate Policy
@@ -32,8 +32,8 @@ tags:
 featured: true
 
 links:
-url_slides: 'files/slides/carbontaxes.pdf'
-url_pdf: ''
+url_slides: ''
+url_pdf: 'files/papers/jmp.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
