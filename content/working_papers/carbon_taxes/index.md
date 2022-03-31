@@ -32,7 +32,7 @@ tags:
 featured: true
 
 links:
-url_slides: ''
+url_slides: 'files/slides/frb.pdf'
 url_pdf: 'files/papers/jmp.pdf'
 url_code: ''
 url_dataset: ''
