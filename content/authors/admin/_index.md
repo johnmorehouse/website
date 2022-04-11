@@ -77,6 +77,8 @@ user_groups:
 Welcome to my website. I am a Ph.D. candidate in Economics at the University of Oregon where I focus on __labor__, __environmental__, and __urban__ economics. My research addresses spatial heterogeneity in responses to public policy such as the US Clean Air Act and local housing regulations. 
 
 
+In August of 2022, I will be joining Freddie Mac as a Senior Quantitative Analyst.
+
 
 
 
