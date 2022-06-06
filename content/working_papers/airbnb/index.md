@@ -52,4 +52,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: 
 ---
-__Revise and Resubmit:__ _Regional Science and Urban Economics._
