@@ -33,7 +33,7 @@ education:
   courses:
   - course: PhD in Economics
     institution: University of Oregon
-    year: 2022*
+    year: 2022
   - course: MS in Economics
     institution: University of Oregon
     year: 2018
