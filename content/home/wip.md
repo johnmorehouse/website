@@ -6,8 +6,7 @@ header:
 title: Works in Progress
 
 ---
-- Is the Solution to the Pollution Dilution? Evidence from Regulating Stack Heights (with Ed Rubin and Eric Zou)
 
-- The Big City Wage Premium: Labor Market Power and Skill Sorting (with Sophie Mathes)
+- Labor Market Power in a Spatial Equilibrium (with Claudio Luccioletti & Sophie Mathes)
 
-- Migration or Mitigation? Disentangling Climate Change Adaptation (with Emmett Saulnier)
+- The Distributional Impacts of Climate Change Across US Local Labor Markets (with Emmett Saulnier)
