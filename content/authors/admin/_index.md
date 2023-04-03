@@ -12,7 +12,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Economics PhD Student
+role: Environmental & Urban Economist
 
 # Organizations/Affiliations
 organizations:
