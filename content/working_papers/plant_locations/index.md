@@ -57,4 +57,4 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: 
 ---
-__Submitted__ 
+__R&R: JAERE__ 
