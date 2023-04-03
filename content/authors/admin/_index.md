@@ -16,11 +16,11 @@ role: Environmental & Urban Economist
 
 # Organizations/Affiliations
 organizations:
-- name: University of Oregon
-  url: "https://economics.uoregon.edu/profile/jmorehou/"
+- name: 
+  url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD candidate at the University of Oregon interested in environmental and urban economics. 
+bio: I am an environmental and urban economist currently working at Freddie Mac. 
 
 interests:
 - Environmental Economics
