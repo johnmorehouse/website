@@ -74,7 +74,7 @@ user_groups:
 
 ---
 
-Welcome to my website. I am currently working as a Senior Quantative Analyst at Freddie Mac.
+Welcome to my website. I currently work at Freddie Mac as a Quant Tech Lead studying how climate risk impacts the housing market.
 
 
 I received my Ph.D. in economics from the University of Oregon in 2022. My academic research addresses spatial heterogeneity in responses to public policy, such as the US Clean Air Act and local housing regulations.
