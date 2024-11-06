@@ -74,10 +74,15 @@ user_groups:
 
 ---
 
-Welcome to my website. I currently work at Freddie Mac as a Quant Tech Lead, where I study how climate risk impacts the housing market.
-
+Welcome to my website. I am an economist interested in urban and environmental economics. I currently work at Freddie Mac as a Quant Tech Lead, studying how climate risk impacts the housing market.
 
 I received my Ph.D. in economics from the University of Oregon in 2022. My academic research addresses spatial heterogeneity in responses to public policy, such as the US Clean Air Act and local housing regulations.
+
+__NEW: (2024)__ 
+
+- A [paper](https://www.johnmmorehouse.com/files/papers/reynier-morehouse-climate-migration.pdf) with [Emmett Reynier](https://www.emmettreynier.com/) about the distributional impacts of climate change.
+
+- [Plant Locations](https://www.johnmmorehouse.com/files/papers/landuse_regs.pdf) was conditionally accepted at JAERE
 
 
 
