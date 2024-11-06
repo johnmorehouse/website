@@ -20,7 +20,7 @@ publication_short: "JAERE"
 abstract: "US environmental policy cedes substantial authority to local governments/agencies---creating potentials for polluters to strategically export emissions. We identify such strategies among coal-fueled power plants. We document electricity generators locate near administrative borders. As water may influence borders/siting, we develop a simple, non-parametric test that demonstrates coal plants locate to reduce their downwind exposure. Natural-gas plants---facing lower regulatory pressure---do not exhibit this behavior. Using a state-of-the-art, particle-trajectory model, we illustrate coal pollution's extreme mobility: within 6 hours, 50% of coal plants' emissions leave their source states---99% leave their counties. These strategic responses emphasize the importance of federal oversight and transport-focused regulation."
 
 # Summary. An optional shortened abstract.
-summary: __Conditionally Accepted: JAERE__ <br /> We document the tendency of coal-fueled electricity plants to locate on jurisdictional borders. We then develop a simple test to detect if the plants are strategically sited. Lastly, we use an atmospheric dispersion model to provide new descriptive statistics on the pervasiveness of the pollution transport problem.
+summary: __Conditionally Accepted JAERE (2024)__ <br /> We document the tendency of coal-fueled electricity plants to locate on jurisdictional borders. We then develop a simple test to detect if the plants are strategically sited. Lastly, we use an atmospheric dispersion model to provide new descriptive statistics on the pervasiveness of the pollution transport problem.
 
 
 tags:
