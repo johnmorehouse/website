@@ -82,7 +82,7 @@ __NEW IN 2024:__
 
 - A [paper](https://www.johnmmorehouse.com/files/papers/reynier-morehouse-climate-migration.pdf) with [Emmett Reynier](https://www.emmettreynier.com/) about the distributional impacts of climate change.
 
-- [Plant Locations](https://www.johnmmorehouse.com/files/papers/landuse_regs.pdf) was conditionally accepted at JAERE
+- [Plant Locations](https://www.johnmmorehouse.com/files/papers/plant_locations.pdf) was conditionally accepted at JAERE
 
 
 
