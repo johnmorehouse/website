@@ -1,10 +1,5 @@
-
-
-
-
-
 ---
-title: "The Distributional Impacts of Climate Changes across US Local Labor Markets"
+title: title: "The Distributional Impacts of Climate Changes across US Local Labor Markets"
 authors:
 - "Emmett Reynier & John Morehouse"
 date:  "2024-10-05"
@@ -65,4 +60,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: 
 ---
-
