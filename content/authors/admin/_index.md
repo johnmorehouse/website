@@ -78,7 +78,7 @@ Welcome to my website. I am an economist interested in urban and environmental e
 
 I received my Ph.D. in economics from the University of Oregon in 2022. Outside of work, I love riding my bike.
 
-__NEW IN (2024)__ 
+__NEW IN 2024:__ 
 
 - A [paper](https://www.johnmmorehouse.com/files/papers/reynier-morehouse-climate-migration.pdf) with [Emmett Reynier](https://www.emmettreynier.com/) about the distributional impacts of climate change.
 
