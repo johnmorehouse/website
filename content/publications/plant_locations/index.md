@@ -20,7 +20,7 @@ publication_short: "JAERE"
 abstract: 
 
 # Summary. An optional shortened abstract.
-summary: __Conditionally Accepted: JAERE__ (2024) <br />We document the tendency of coal-fueled electricity plants to locate on jurisdictional borders. We then develop a simple test to detect if the plants are strategically sited. Lastly, we use an atmospheric dispersion model to provide new descriptive statistics on the pervasiveness of the pollution transport problem.
+summary: 
 
 
 tags:
