@@ -1,12 +1,12 @@
 ---
-title: title: "The Distributional Impacts of Climate Changes across US Local Labor Markets"
+title: "Carbon Taxes in Spatial Equilibrium"
 authors:
-- "Emmett Reynier & John Morehouse"
-date:  "2024-10-05"
+- "John Morehouse"
+date: "2021-11-09"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate:  "2024-10-05"
+publishDate: "2021-11-09"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,19 +19,21 @@ publication: ""
 publication_short: ""
 
 
-abstract: "Climate change has affected households around the globe, but its impacts are not homogenous across space. We first show that disadvantaged demographic groups are disproportionately exposed to climate change in the US and are less responsive in their adaptive behavior. Motivated by these findings, we develop and estimate a spatial equilibrium model of US local labor markets, allowing households to adapt to climate change by choosing where to live and, conditional on that choice, energy and housing consumption. Our results show that climate change to date has caused welfare losses 20% larger for Black households relative to white households and twice as large for the lowest income decile relative to the highest income decile. We estimate that these gaps will continue to grow under projections of the future climate. Both the population’s ex-ante distribution and differential mobility contribute to the observed disparities. We then evaluate a $3 billion place-based policy from the Inflation Reduction Act, quantifying the tradeoff between subsizing places with high climate damages and the resulting in-migration to climate-exposed areas.""
+abstract: "Residential, industrial, and commercial carbon dioxide emissions vary substantially across cities and sectors; this variation has led to concerns about the distributional consequences of carbon pricing policies. I develop and estimate a spatial equilibrium model to quantify the incidence from a stylized carbon tax across cities, sectors, and education groups in the U.S. The model features heterogeneous households, firms in multiple locations, sectors that use energy and labor as imperfect substitutes, and region-specific carbon emissions rates due to differences in the fuel mix used to generate electricity. A uniform carbon tax has substantial distributional effects, with uneducated workers in manufacturing bearing the greatest burden. The share of the total tax burden attributable to coal-fired electricity varies significantly across regions. I also use the model to demonstrate that progressive compensation leads to a decline in aggregate carbon emissions relative to flat transfers,  due to a reallocation of workers into cities and sectors that are less carbon-intensive."
 
 # Summary. An optional shortened abstract.
-summary: We show that disadvantaged demographic groups are disproportionately exposed to climate change in the US and are less responsive in their adaptive behavior. We develop and estimate a spatial equilibrium model of US local labor markets and show that climate change to date has caused welfare losses 20% larger for Black households relative to white households and twice as large for the lowest income decile relative to the highest income decile
+summary: __Job Market Paper__ <br /> I estimate the spatial and sectoral distribution of incidence from carbon pricing by developing and estimating a quantitative spatial equilibrium model. I find workers without a college degree in manufacturing bear the greatest burden. I also use the model to demonstrate that progressive compensation leads to a decline in aggregate carbon emissions relative to flat transfers,  due to a reallocation of workers into cities and sectors that are less carbon-intensive
 
 tags:
+- Climate Policy
 - Urban Economics
 - Residential Sorting
 
 featured: true
 
 links:
-url_pdf: 'files/papers/reynier-morehouse-climate-migration.pdf'
+url_slides: 'files/slides/frb.pdf'
+url_pdf: 'files/papers/jmp.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -60,3 +62,5 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: 
 ---
+
+__Job Market Paper__ 
