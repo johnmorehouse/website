@@ -29,7 +29,7 @@ tags:
 featured: true
 
 links:
-url_pdf: 'files/papers/landuse_regs.pdf'
+url_pdf: 'files/papers/plant_locations.pdf'
 
 
 # Featured image
