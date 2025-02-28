@@ -81,7 +81,7 @@ I received my Ph.D. in economics from the University of Oregon in 2022. Outside 
 __NEW (2024/2025):__ 
 
 - [Plant Locations](https://www.johnmmorehouse.com/files/papers/plant_locations.pdf) was accepted at JAERE
- - [Replication Code](https://github.com/edrubin/plant-locations)
+  + [Replication Code](https://github.com/edrubin/plant-locations)
 
 - A [paper](https://www.johnmmorehouse.com/files/papers/reynier-morehouse-climate-migration.pdf) with [Emmett Reynier](https://www.emmettreynier.com/) about the distributional impacts of climate change.
 
