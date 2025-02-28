@@ -78,11 +78,13 @@ Welcome to my website. I am an economist interested in urban and environmental e
 
 I received my Ph.D. in economics from the University of Oregon in 2022. Outside of work, I love riding my bike.
 
-__NEW IN 2024:__ 
+__NEW (2024/2025):__ 
+
+- [Plant Locations](https://www.johnmmorehouse.com/files/papers/plant_locations.pdf) was accepted at JAERE
+ - [Replication Code](https://github.com/edrubin/plant-locations)
 
 - A [paper](https://www.johnmmorehouse.com/files/papers/reynier-morehouse-climate-migration.pdf) with [Emmett Reynier](https://www.emmettreynier.com/) about the distributional impacts of climate change.
 
-- [Plant Locations](https://www.johnmmorehouse.com/files/papers/plant_locations.pdf) was conditionally accepted at JAERE
 
 
 
