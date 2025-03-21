@@ -57,5 +57,5 @@ slides:
 
 ---
 
-__Conditionally Accepted: JAERE (2024)__
+__Accepted: JAERE (2024)__
 
