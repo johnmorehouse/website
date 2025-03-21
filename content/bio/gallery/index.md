@@ -19,8 +19,8 @@ date: "2021-04-01"
 ---
 
 
-![Gorge Roubaix](/img/gorge_roubaix.png)
-*Suffering (second from right) in the pro 1/2 race at the 2017 Gorge Roubaix in the Dalles, Oregon.*
+![New Hill RR](/img/new_hill_rr_2.jpeg)
+*Competing in the 2025 Rogue State Road Race.*
 
 
 
