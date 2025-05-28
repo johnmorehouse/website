@@ -20,13 +20,13 @@ organizations:
   url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an environmental and urban economist currently working at Freddie Mac. 
+bio: I am an economist currently working at Freddie Mac. 
 
 interests:
 - Environmental Economics
 - Labor Economics
 - Urban Economics
-- Public Policy
+
 
 
 education:
@@ -74,7 +74,7 @@ user_groups:
 
 ---
 
-Welcome to my website. I am an economist interested in urban, labor, and environmental economics. I currently work at Freddie Mac as a Quant Tech Lead, studying how natural disaster risk impacts the housing market.
+Welcome to my website. I currently work at Freddie Mac as a Quant Tech Lead, studying how natural disaster risk impacts the housing market.
 
 I received my Ph.D. in economics from the University of Oregon in 2022. Outside of work, I love riding my bike.
 
