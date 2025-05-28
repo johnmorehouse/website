@@ -12,7 +12,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Environmental & Urban Economist
+role: Economist
 
 # Organizations/Affiliations
 organizations:
