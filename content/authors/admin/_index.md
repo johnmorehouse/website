@@ -20,7 +20,7 @@ organizations:
   url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an economist currently working at Freddie Mac. 
+bio: I am an economist
 
 interests:
 - Environmental Economics
@@ -74,9 +74,7 @@ user_groups:
 
 ---
 
-Welcome to my website. I currently work at Freddie Mac as a Quant Tech Lead, studying how natural disaster risk impacts the housing market.
-
-I received my Ph.D. in economics from the University of Oregon in 2022. Outside of work, I love riding my bike.
+Welcome to my website.  I am an economist in interested in solving problems in real estate and climate. I received my Ph.D. in economics from the University of Oregon in 2022. Outside of work, I love riding my bike.
 
 __NEW (2024/2025):__ 
 
